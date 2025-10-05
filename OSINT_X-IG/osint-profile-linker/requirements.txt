@@ -1,0 +1,11 @@
+streamlit>=1.25
+instaloader>=4.9
+requests>=2.28
+sentence-transformers>=2.2.2
+numpy
+pandas
+Pillow
+imagehash
+python-dotenv
+scikit-learn
+tqdm
